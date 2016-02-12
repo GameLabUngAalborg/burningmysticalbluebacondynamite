@@ -44,9 +44,7 @@ namespace Teacher
 
             if(HungerBar.value <= 0)
             {
-
                 UnityEngine.SceneManagement.SceneManager.LoadScene(1);
-
             }
         }
     }
